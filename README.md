@@ -6,8 +6,9 @@ Sistemas Programables
 #### Sistema Mimetizador
 Sistema Mimetizador con despliegue de mensajes en una pantalla LCD del estado del tiempo (Temperatura).
 #### PRESENTA:
-1.Casillas Manrique Mariela Abigail
-2.González Hernández Ivonne Lizbeth
+Casillas Manrique Mariela Abigail
+
+González Hernández Ivonne Lizbeth
 #### PROFESOR:
 Ing. Levy Rojas Carlos Rafael
 #### HORARIO:
