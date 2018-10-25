@@ -37,6 +37,7 @@ conexión y diseño utilizado para este proyecto.
 ![diagrama](https://user-images.githubusercontent.com/43210622/47485115-12665d00-d803-11e8-81da-befa4f226c33.png)
 
 
+![3](https://user-images.githubusercontent.com/43210622/47485380-a506fc00-d803-11e8-9218-b7e2316e4da6.jpg)
 
 
 
