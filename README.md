@@ -34,6 +34,9 @@ desarrollo.
 En la siguiente imagen se muestra el diagrama, que muestra la 
 conexión y diseño utilizado para este proyecto. 
 
+![diagrama](https://user-images.githubusercontent.com/43210622/47485115-12665d00-d803-11e8-81da-befa4f226c33.png)
+
+
 
 
 
